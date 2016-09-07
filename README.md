@@ -214,3 +214,7 @@ Associate Product Manager
 Twitter  
 [Website](http://tcburning.com) | [Twitter](https://twitter.com/tcburning) |
 [GitHub](https://github.com/terriburns)
+
+Rizwan Javaid 
+User Experience Designer 
+[Website](https://www.rizwanjavaid.com/) | [Twitter](https://twitter.com/rizwanjavaid) | [Past Talks](http://rizwanjavaid.com/speaking/) | [LinkedIn](https://www.linkedin.com/in/rizwanjavaid)
